@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://m70218865-dot.github.io/sitemap.xml
